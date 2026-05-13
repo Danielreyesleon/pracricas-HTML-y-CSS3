@@ -1,2 +1,2 @@
-# pracricas-HTML-y-CSS3
-practicas de cuando estaba iniciando
+# practicas-HTML-y-CSS3
+Estas son prácticas que hice cuando estaba iniciando.
